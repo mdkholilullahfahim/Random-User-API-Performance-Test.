@@ -7,16 +7,16 @@
 - Java 8 or higher
 
 ## Installation
-Clone the repository
+1-Clone the repository
 
-- git clone https://github.com/yourusername/Random-User-API-Performance-Test.git
+- git clone https://github.com/mdkholilullahfahim/Random-User-API-Performance-Test.git
 cd Random-User-API-Performance-Test
 
-Download and Install JMeter
+2-Download and Install JMeter
 
-Download JMeter from the official website.
-Extract the downloaded archive to a preferred location on your system.
-Setup Environment Variables (optional)
+- Download JMeter from the official website.
+- Extract the downloaded archive to a preferred location on your system.
 
-Add JMeter bin directory to your system's PATH variable for easy command-line access.
+3-Setup Environment Variables (optional)
+- Add JMeter bin directory to your system's PATH variable for easy command-line access.
 
